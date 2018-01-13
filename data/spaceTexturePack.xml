@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:de50bd52b354c142afda8dcc93631959:2cc02019b4d8426ba4ae52dc2c9cedd0:018729b618a603af6ae5c9f552dd52df$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spaceTexturePack.png" width="3840" height="4594">
+    <sprite n="explosion0000.png" x="1110" y="1578" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0001.png" x="1110" y="722" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0002.png" x="0" y="2434" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0003.png" x="0" y="722" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0004.png" x="2220" y="722" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0005.png" x="0" y="1578" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="explosion0006.png" x="2220" y="1578" w="1110" h="856" pX="0.5" pY="0.5"/>
+    <sprite n="healthBar.png" x="0" y="512" w="1530" h="210" pX="0.5" pY="0.5"/>
+    <sprite n="healthBarOuter.png" x="1530" y="512" w="1530" h="210" pX="0.5" pY="0.5"/>
+    <sprite n="meteor1.png" x="388" y="0" w="402" h="388" pX="0.5" pY="0.5"/>
+    <sprite n="meteor2.png" x="40" y="0" w="348" h="350" pX="0.5" pY="0.5"/>
+    <sprite n="meteor3.png" x="1228" y="0" w="454" h="452" pX="0.5" pY="0.5"/>
+    <sprite n="meteor4.png" x="2194" y="0" w="512" h="512" pX="0.5" pY="0.5"/>
+    <sprite n="meteor5.png" x="1682" y="0" w="512" h="512" pX="0.5" pY="0.5"/>
+    <sprite n="meteor6.png" x="2706" y="0" w="512" h="512" pX="0.5" pY="0.5"/>
+    <sprite n="spaceLaserShot.png" x="0" y="0" w="40" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="spaceParallax1.png" x="1110" y="2434" w="1920" h="1080" pX="0.5" pY="0.5"/>
+    <sprite n="spaceParallax2.png" x="1920" y="3514" w="1920" h="1080" pX="0.5" pY="0.5"/>
+    <sprite n="spaceParallax4.png" x="0" y="3514" w="1920" h="1080" pX="0.5" pY="0.5"/>
+    <sprite n="spaceShip.png" x="790" y="0" w="438" h="432" pX="0.5" pY="0.5"/>
+</TextureAtlas>
