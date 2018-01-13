@@ -1,2 +1,8 @@
 # Space Shooter
-First game (attempt) in c++. The code is one hell of a mess. I'll probably include the external libaries later. If you absolutely must build the project add the external libraries according to the CMake file.
+First game (attempt) in c++. The code is one hell of a mess.If you really need to build the project you'll have to download and install the dependencies and probably rewrite CMakeLists.txt (you can use the existing one as a cheat sheet).
+
+# Dependencies
+- SFML 2.3.2
+- tinyxml2
+- entityx
+- Box2D
