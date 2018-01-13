@@ -1,4 +1,4 @@
-# Space Shooter
+# Top Down Space Shooter
 First game (attempt) in c++. The code is one hell of a mess.If you really need to build the project you'll have to download and install the dependencies and probably rewrite CMakeLists.txt (you can use the existing one as a cheat sheet).
 
 # Dependencies
