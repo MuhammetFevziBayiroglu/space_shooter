@@ -7,4 +7,5 @@ First game (attempt) in c++. The code is one hell of a mess.If you really need t
 - entityx
 - Box2D
 
+# Screenshot
 ![Screenshot](screenshot_01132017.png)
